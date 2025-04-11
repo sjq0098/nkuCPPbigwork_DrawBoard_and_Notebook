@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>recourse/icon/Ellipse.png</file>
+        <file>recourse/icon/LeftRotate.png</file>
+        <file>recourse/icon/Line.png</file>
+        <file>recourse/icon/rectangle.png</file>
+        <file>recourse/icon/redo.png</file>
+        <file>recourse/icon/RightRotate.png</file>
+        <file>recourse/icon/text.png</file>
+        <file>recourse/icon/triangle.png</file>
+        <file>recourse/icon/note.png</file>
+        <file>recourse/icon/note1.png</file>
+        <file>recourse/icon/clear-all.png</file>
+        <file>recourse/icon/keep.png</file>
+        <file>recourse/icon/keepas.png</file>
+        <file>recourse/icon/open.png</file>
+        <file>recourse/icon/eraser.png</file>
+        <file>recourse/icon/pencil.png</file>
+        <file>recourse/icon/none.jpg</file>
+        <file>recourse/icon/underline.png</file>
+        <file>recourse/icon/save.png</file>
+        <file>recourse/icon/prinnt.png</file>
+        <file>recourse/icon/paste.png</file>
+        <file>recourse/icon/open_.png</file>
+        <file>recourse/icon/new.png</file>
+        <file>recourse/icon/italic.png</file>
+        <file>recourse/icon/info.png</file>
+        <file>recourse/icon/exit.png</file>
+        <file>recourse/icon/redo_.png</file>
+        <file>recourse/icon/undo.png</file>
+        <file>recourse/icon/cut.png</file>
+        <file>recourse/icon/create.png</file>
+        <file>recourse/icon/copy.png</file>
+        <file>recourse/icon/bold.png</file>
+        <file>recourse/icon/font.png</file>
+        <file>recourse/icon/clear_history.png</file>
+        <file>recourse/icon/open_recently.png</file>
+        <file>recourse/icon/coolbackground.png</file>
+        <file>recourse/icon/cool-background.png</file>
+        <file>recourse/cool-background.png</file>
+        <file>recourse/bg_bggenerator_com.png</file>
+        <file>recourse/icon/notebook.png</file>
+        <file>recourse/icon/Arrow.png</file>
+        <file>recourse/icon/Diamond.png</file>
+        <file>recourse/icon/Arc.png</file>
+    </qresource>
+</RCC>
